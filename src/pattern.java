@@ -24,7 +24,7 @@ System.out.print("* ");
 else
 System.out.print("  ");
 }
-System.out.println();                        //last line shoul be ln(next line) for control to go to next row
+System.out.println();                        //last line should be ln(next line) for control to go to next row
 }
 }
 }
